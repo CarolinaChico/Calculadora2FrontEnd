@@ -1,0 +1,22 @@
+{
+  "name": "caalc",
+  "version": "0.0.1",
+  "description": "Backend para el proyecto calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "calculadora",
+    "backend",
+    "api"
+  ],
+  "author": "Carolina Chico",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
